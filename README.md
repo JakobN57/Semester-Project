@@ -8,5 +8,3 @@ The goal of this project is to create a music generator which can create a coher
 
 ## Technoology used
 
-
-Technology used: What are you using to make the project?
