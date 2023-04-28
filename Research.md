@@ -8,3 +8,7 @@ Reason: To learn about machine learning using pyhton
 
 
 https://www.masterclass.com/articles/how-to-write-a-bass-line
+
+
+Learn tkinter
+https://www.youtube.com/watch?v=ibf5cx221hk
